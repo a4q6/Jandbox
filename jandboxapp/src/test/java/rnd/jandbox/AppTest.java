@@ -1,4 +1,4 @@
-package maven.jandbox;
+package rnd.jandbox;
 
 import static org.junit.Assert.assertTrue;
 

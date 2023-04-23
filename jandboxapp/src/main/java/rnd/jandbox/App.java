@@ -1,4 +1,4 @@
-package maven.jandbox;
+package rnd.jandbox;
 
 /**
  * Hello world!
