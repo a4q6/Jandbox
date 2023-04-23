@@ -1,4 +1,4 @@
-package playground.lib.tableware;
+package barejava.lib.tableware;
 
 public class Wineglass extends Tableware {
 

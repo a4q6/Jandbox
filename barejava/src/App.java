@@ -1,10 +1,11 @@
-import java.util.Arrays;
+import barejava.lib.tableware.Cabinet;
+import barejava.lib.tableware.Tableware;
+import barejava.lib.tableware.Teacup;
+import barejava.lib.tableware.Wineglass;
+
 import java.util.ArrayList;
 
-import playground.lib.tableware.Cabinet;
-import playground.lib.tableware.Tableware;
-import playground.lib.tableware.Teacup;
-import playground.lib.tableware.Wineglass;
+import java.util.Arrays;
 
 public class App {
     public static void main(String[] args) throws Exception {

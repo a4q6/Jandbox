@@ -1,4 +1,4 @@
-package playground.lib.tableware;
+package barejava.lib.tableware;
 
 // Abstract class for tableware. Expected to be extended by cup, plate, fork ...etc.
 public abstract class Tableware {

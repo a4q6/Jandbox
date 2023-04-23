@@ -1,4 +1,4 @@
-package playground.lib.tableware;
+package barejava.lib.tableware;
 
 import java.util.ArrayList;
 
